@@ -1,0 +1,32 @@
+{
+  "tabBarData":[
+    {
+      "title":"主页",
+      "key": "main",
+      "icon_bg-url": "url(https://zos.alipayobjects.com/rmsportal/sifuoDUQdAFKAVcFGROC.svg) center center /  21px 21px no-repeat",
+      "selt-bg-url": "url(https://zos.alipayobjects.com/rmsportal/iSrlOTqrKddqbOmlvUfq.svg) center center /  21px 21px no-repeat",
+      "selectedpath": "main"
+    },
+    {
+      "title":"资讯",
+      "key": "news",
+      "icon_bg-url": "url(https://zos.alipayobjects.com/rmsportal/sifuoDUQdAFKAVcFGROC.svg) center center /  21px 21px no-repeat",
+      "selt-bg-url":"url(https://zos.alipayobjects.com/rmsportal/iSrlOTqrKddqbOmlvUfq.svg) center center /  21px 21px no-repeat",
+      "selectedpath": "news"
+    },
+    {
+      "title":"微聊",
+      "key": "chat",
+      "icon_bg-url": "url(https://zos.alipayobjects.com/rmsportal/sifuoDUQdAFKAVcFGROC.svg) center center /  21px 21px no-repeat",
+      "selt-bg-url": "url(https://zos.alipayobjects.com/rmsportal/iSrlOTqrKddqbOmlvUfq.svg) center center /  21px 21px no-repeat",
+      "selectedpath": "chat"
+    },
+    {
+      "title":"我的",
+      "key": "mine",
+      "icon_bg-url": "url(https://zos.alipayobjects.com/rmsportal/sifuoDUQdAFKAVcFGROC.svg) center center /  21px 21px no-repeat",
+      "selt-bg-url": "url(https://zos.alipayobjects.com/rmsportal/iSrlOTqrKddqbOmlvUfq.svg) center center /  21px 21px no-repeat",
+      "selectedpath": "mine"
+    }
+  ]
+}
